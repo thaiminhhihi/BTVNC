@@ -1,0 +1,2 @@
+
+    calculateSum(&a,&b,&sum);
