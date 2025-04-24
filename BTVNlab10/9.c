@@ -1,0 +1,2 @@
+// Bài 9. Chuẩn hóa tên (in tên trước, họ đệm sau). Ví dụ "tran    VaN  Toan" => "Toan Tran Van". (strtok)
+// Bài 10. Cấp email cho sinh viên. Ví dụ: người dùng nhập “Nguyen Van Minh” → Email: minhnv@aptech.com.vn (strtok)
